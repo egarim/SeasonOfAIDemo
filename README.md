@@ -179,8 +179,5 @@ We can use this handler to redirect server request to any other OpenAI compatibl
             }
 
 
-
-
-
 ```
 
